@@ -1,1 +1,5 @@
 _posts/YYYY-MM-DD-title.md,
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
